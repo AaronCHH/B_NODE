@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BookmarkExport>
+  <Item ID="1" Name="Cover&#xD;" Page="1" Open="0" />
+  <Item ID="2" Name="Copyright" Page="3" Open="0" />
+  <Item ID="3" Name="Credits" Page="4" Open="0" />
+  <Item ID="4" Name="About the Author" Page="5" Open="0" />
+  <Item ID="5" Name="About the Reviewer" Page="6" Open="0" />
+  <Item ID="6" Name="www.packtpub.com" Page="7" Open="0" />
+  <Item ID="7" Name="packtlib.packtpub.com" Page="8" Open="0" />
+  <Item ID="8" Name="Table of Contents" Page="10" Open="0" />
+  <Item ID="9" Name="Instant Node.js Starter" Page="12" Open="0">
+    <Item ID="10" Name="So, what is Node.js?" Page="14" Open="0" />
+    <Item ID="11" Name="Installation" Page="15" Open="0" />
+    <Item ID="12" Name="Quick start" Page="20" Open="0">
+      <Item ID="13" Name="Step 1 – Creating a Hello World HTTP server" Page="20" Open="0" />
+      <Item ID="14" Name="Step 2 – Launching the server" Page="20" Open="0" />
+    </Item>
+    <Item ID="15" Name="Top 5 features you need to know about" Page="23" Open="0">
+      <Item ID="16" Name="User modules" Page="23" Open="0" />
+      <Item ID="17" Name="Node Package Manager (NPM)" Page="25" Open="0" />
+      <Item ID="18" Name="The callback pattern" Page="28" Open="0">
+        <Item ID="19" Name="Chaining I/O" Page="30" Open="0" />
+      </Item>
+      <Item ID="20" Name="Event emitter" Page="31" Open="0">
+        <Item ID="21" Name="Parallelizing I/O" Page="33" Open="0" />
+      </Item>
+      <Item ID="22" Name="Streams" Page="34" Open="0">
+        <Item ID="23" Name="The readable streams" Page="35" Open="0" />
+        <Item ID="24" Name="The writable streams" Page="36" Open="0" />
+        <Item ID="25" Name="The duplex streams" Page="36" Open="0" />
+        <Item ID="26" Name="Stream flow control" Page="38" Open="0" />
+        <Item ID="27" Name="Piping" Page="39" Open="0" />
+        <Item ID="28" Name="The transform streams" Page="40" Open="0" />
+      </Item>
+    </Item>
+    <Item ID="29" Name="People and places you should get to know" Page="42" Open="0">
+      <Item ID="30" Name="Official sites" Page="42" Open="0" />
+      <Item ID="31" Name="Blogs" Page="42" Open="0" />
+      <Item ID="32" Name="API documentation" Page="42" Open="0" />
+      <Item ID="33" Name="NPM modules" Page="42" Open="0" />
+      <Item ID="34" Name="Github repository" Page="42" Open="0" />
+      <Item ID="35" Name="Community" Page="42" Open="0" />
+      <Item ID="36" Name="Twitter" Page="43" Open="0" />
+      <Item ID="37" Name="About Packt Publishing" Page="46" Open="0" />
+      <Item ID="38" Name="Writing for Packt" Page="46" Open="0" />
+    </Item>
+  </Item>
+</BookmarkExport>
